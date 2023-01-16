@@ -6,6 +6,8 @@ Description:
 This is an Expense Tracker Application in Asp.Net Core MVC 6.
 This is a complete Asp.Net MVC 6 Core application to manage all the data Regarding All the Expenses.
 
+**USE INTERNET CONNECTION**
+
 This is the Main Dashboard View:- image
 ![image](https://user-images.githubusercontent.com/122631931/212463202-e4ff3831-95a7-4120-8399-ee19cabad4f8.png)
 
